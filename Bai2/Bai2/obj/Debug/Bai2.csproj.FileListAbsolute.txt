@@ -1,0 +1,5 @@
+c:\users\an px\documents\visual studio 2015\Projects\Bai2\Bai2\bin\Debug\Bai2.exe.config
+C:\Users\An PX\Documents\Visual Studio 2015\Projects\Bai2\Bai2\bin\Debug\Bai2.exe
+C:\Users\An PX\Documents\Visual Studio 2015\Projects\Bai2\Bai2\bin\Debug\Bai2.pdb
+C:\Users\An PX\Documents\Visual Studio 2015\Projects\Bai2\Bai2\obj\Debug\Bai2.exe
+C:\Users\An PX\Documents\Visual Studio 2015\Projects\Bai2\Bai2\obj\Debug\Bai2.pdb

@@ -1,0 +1,5 @@
+c:\users\an px\documents\visual studio 2015\Projects\Bai7\Bai7\bin\Debug\Bai7.exe.config
+c:\users\an px\documents\visual studio 2015\Projects\Bai7\Bai7\bin\Debug\Bai7.exe
+c:\users\an px\documents\visual studio 2015\Projects\Bai7\Bai7\bin\Debug\Bai7.pdb
+c:\users\an px\documents\visual studio 2015\Projects\Bai7\Bai7\obj\Debug\Bai7.exe
+c:\users\an px\documents\visual studio 2015\Projects\Bai7\Bai7\obj\Debug\Bai7.pdb

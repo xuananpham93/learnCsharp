@@ -1,0 +1,6 @@
+c:\users\an px\documents\visual studio 2015\Projects\Bai8\Bai8\bin\Debug\Bai8.exe.config
+c:\users\an px\documents\visual studio 2015\Projects\Bai8\Bai8\bin\Debug\Bai8.exe
+c:\users\an px\documents\visual studio 2015\Projects\Bai8\Bai8\bin\Debug\Bai8.pdb
+c:\users\an px\documents\visual studio 2015\Projects\Bai8\Bai8\obj\Debug\Bai8.csprojResolveAssemblyReference.cache
+c:\users\an px\documents\visual studio 2015\Projects\Bai8\Bai8\obj\Debug\Bai8.exe
+c:\users\an px\documents\visual studio 2015\Projects\Bai8\Bai8\obj\Debug\Bai8.pdb

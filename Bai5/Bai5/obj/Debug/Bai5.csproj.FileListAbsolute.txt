@@ -1,0 +1,6 @@
+c:\users\an px\documents\visual studio 2015\Projects\Bai5\Bai5\bin\Debug\Bai5.exe.config
+c:\users\an px\documents\visual studio 2015\Projects\Bai5\Bai5\bin\Debug\Bai5.exe
+c:\users\an px\documents\visual studio 2015\Projects\Bai5\Bai5\bin\Debug\Bai5.pdb
+c:\users\an px\documents\visual studio 2015\Projects\Bai5\Bai5\obj\Debug\Bai5.csprojResolveAssemblyReference.cache
+c:\users\an px\documents\visual studio 2015\Projects\Bai5\Bai5\obj\Debug\Bai5.exe
+c:\users\an px\documents\visual studio 2015\Projects\Bai5\Bai5\obj\Debug\Bai5.pdb
